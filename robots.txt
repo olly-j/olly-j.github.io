@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olly-j.github.io/duo-casebook/sitemap.xml
